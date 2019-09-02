@@ -1,0 +1,52 @@
+.title {
+  background-color: orange;
+  color: white;
+  font-size: 32px;
+  padding: 20px;
+  margin: 10px;
+}
+
+.rules {
+  background-color: tan;
+  color: green;
+  line-height: 1.5;
+  padding:20px;
+  margin: 10px;
+}
+
+.target {
+  background-color: rgb(66, 185, 86);
+  color: purple;
+  height: 100px;
+  width: 300px;
+  font-size: 28px;
+  padding: 20px;
+  margin: 10px;
+}
+
+.winloss {
+  background-color: cyan;
+  color: green;
+  height: 100px;
+  padding: 20px;
+  margin: 10px;
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+.crystal {
+}
+
+img {
+  width: 70px;
+  height: 70px;
+}
+
+.score {
+  background-color: teal;
+  color: white;
+  font-size: 30px;
+  width: 400px;
+  height: 100px;
+  padding: 20px;
+}
